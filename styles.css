@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-h1 {
+/* .num-1 {
     font-family: Snell Roundhand, cursive;
     font-family: Snell Roundhand, cursive;
     display: flex;
@@ -12,5 +12,23 @@ h1 {
     justify-content: center;
     margin-top: 20px;
     font-weight: 900;
+} */
+
+.num-2 {
+    font-family: Snell Roundhand, cursive;
+    font-size: 60px;
+    justify-content: center;
+    display: flex;
+    font-weight: 900;
+    margin-top: 20px;
+    padding: 93px;
 }
 
+.num {
+    margin: -40px 19px;
+    font-size: 110px;
+}
+
+.text {
+    
+}
