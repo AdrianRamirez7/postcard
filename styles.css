@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-family: Snell Roundhand, cursive;
+    font-family: Snell Roundhand, cursive;
+    display: flex;
+    padding: 93px;
+    font-size: 145px;
+    justify-content: center;
+    margin-top: 20px;
+    font-weight: 900;
+}
+
